@@ -1,0 +1,14 @@
+{
+  "name": "WhatsGood",
+  "version": "0.0.1",
+  "description": "",
+  "author": "Pragash, Yi Fan, Jason",
+  "dependencies": {
+    "firebase": "^4.1.3",
+    "firebase-admin": "^5.0.1"
+  },
+  "main": "server",
+  "engines": {
+    "node": ">= 0.4.1"
+  }
+}
